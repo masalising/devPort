@@ -1,0 +1,39 @@
+body {
+	background-color: #4CAF50;
+	font-family: sans-serif;
+	text-align: center;
+	background: url(bg.jpg) no-repeat center fixed; 
+	background-size: cover;
+
+}
+h1 {
+	color: black;
+	font-size: : 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Rammetto One', cursive;
+}
+
+h2 {
+	color: green;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.bio {
+	color: yellow;
+	font-size: 14px;
+	font-family: 'Playfair Display', serif;
+}
+
+.me {
+	height:  150px;
+	width: 150px;re
+	border-radius: 100%;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.about  
